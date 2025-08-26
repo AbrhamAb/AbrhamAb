@@ -2,13 +2,13 @@
 <h3 align="center">A Passionate Software Engineering Student & Web Developer from Ethiopia</h3>
 
 <p align="center">
-  <a href="https://your-portfolio-link.vercel.app">
+  <a href="https://abrhamabebawportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="www.linkedin.com/in/abrham-abebaw">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter">
+  <a href="https://x.com/Abrham_abebawE">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
