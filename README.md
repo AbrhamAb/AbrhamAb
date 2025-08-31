@@ -69,18 +69,11 @@ I am a dedicated **Software Engineering student** at **ALX**, immersed in the ar
 
 ### 📫 How to Reach Me
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abrhamabebawportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abrham-abebaw)
-[![Twitter](https://img.shields.io/badge/Follow_on_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Abrham_abebawE)
-[![Gmail](https://img.shields.io/badge/Send_Me_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrhamabebaw.tech@gmail.com)
-
----
-
-**Direct Links:**
-*   **Portfolio:** [abrhamabebaw.vercel.app](https://abrhamabebawportfolio.vercel.app/)
-*   **LinkedIn:** [Abrham Abebaw](www.linkedin.com/in/abrham-abebaw)
-*   **Twitter:** [@Abrham_AbebawE](https://x.com/Abrham_abebawE)
-*   **Email:** abrhamabebaw.tech@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://abrhamabebawportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrham-abebaw)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Abrham_abebawE)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abraham_abebaw_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrhamabebaw.tech@gmail.com)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbrhamAb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
