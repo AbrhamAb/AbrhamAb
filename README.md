@@ -18,13 +18,15 @@
 ### 👨‍💻 About Me
 
 > `#ALX_SE Student | Backend Aficionado | Problem Solver`
+## 👋 About Me  
 
-I’m a Software Engineering student at ALX, passionate about building scalable web solutions and writing clean, efficient code.
-💁🏽‍♂️Currently exploring Python backend frameworks, system design, and cloud technologies.
-👥️ Open to collaborating on open-source and innovative projects.
-⚡ Fun fact: I believe the best code is not just functional, but also elegant and readable.
+I’m a Software Engineering student at ALX.  
+I’m passionate about building scalable web solutions and writing clean, efficient code.  
+
+- 🌱 Currently learning: Python backend frameworks, system design, and cloud technologies  
+- 👥 Open to: collaborating on open-source and innovative projects  
+- ⚡ Fun fact: I believe the best code is not just functional, but also elegant and readable
 ---
-
 ### 🛠️ Tech Stack & Tools
 
 #### **🌐 Frontend & Web**
