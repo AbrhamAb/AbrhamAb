@@ -19,15 +19,10 @@
 
 > `#ALX_SE Student | Backend Aficionado | Problem Solver`
 
-I am a dedicated **Software Engineering student** at **ALX**, immersed in the art of building robust and scalable web solutions. My journey is fueled by a deep curiosity for backend architecture and a commitment to writing clean, efficient code. I thrive in collaborative environments and believe in the power of teamwork to turn complex ideas into reality, one commit at a time.
-
-- 🔭 I’m currently working on **deepening my expertise in Python backend frameworks.**
-- 🌱 I’m learning **advanced system design and software architecture principles.**
-- 👯 I’m looking to collaborate on **open-source projects and innovative web applications.**
-- 🤔 I’m looking for help with **mastering DevOps and cloud technologies.**
-- 💬 Ask me about **Python, Django, Flask, React, and my journey at ALX.**
-- ⚡ Fun fact: **I believe the best code is not just functional, but also elegant and readable.**
-
+I’m a Software Engineering student at ALX, passionate about building scalable web solutions and writing clean, efficient code.
+💁🏽‍♂️Currently exploring Python backend frameworks, system design, and cloud technologies.
+👥️ Open to collaborating on open-source and innovative projects.
+⚡ Fun fact: I believe the best code is not just functional, but also elegant and readable.
 ---
 
 ### 🛠️ Tech Stack & Tools
