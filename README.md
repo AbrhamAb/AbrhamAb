@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Abrham Abebaw 👋</h1>
-<h3 align="center">A Passionate Software Engineering Student & Web Developer from Ethiopia</h3>
+<h3 align="center">A Software Engineering Student & Web Developer from Ethiopia</h3>
 
 <p align="center">
   <a href="https://abrhamabebawportfolio.vercel.app/">
